@@ -1,5 +1,6 @@
 {
     "$schema": "https://bridge.playgama.com/v1.27.0/schema.json",
+	"forciblySetPlatformId": "playgama",
     "advertisement": {
         "interstitial": {
             "preloadOnStart": true
